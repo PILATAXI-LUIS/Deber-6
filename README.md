@@ -202,8 +202,10 @@ https://www.youtube.com/watch?v=-kJPjND3uRw&ab_channel=LuisPilataxi
 
 ## 5._ Conclusiones
 
-
+  * Se puede representar la variacion de corriente ca en un esquema de ondas sinosoudales que permiten analizar de manera numerica los efectos producidos por esta en diversos lapsos de tiempo y momentos instantaneos.
+  * La leyes que afectan las corrientes cd se pueden implementar de forma constante en las fuentes ca donde primero toca obtener valores especficos para poder facilitar el analissi de circuitos.
+  * Los capacitores presentan propiedades muy utiles para el uso de circuitos y para poder medirlas se obtienen varias magnitudes que unen los conceptos anteriormente visto de circuitops. 
 
 ## 6._ Bibliografia 
 
-
+  * Floyd, T. L. (2022). Principios De Circuitos Electricos C/Cd Rom (8.a ed.). PRENTICE HALL/PEARSON.
